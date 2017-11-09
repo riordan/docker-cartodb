@@ -1,6 +1,9 @@
 docker-cartodb
 ==============
+This is a fork of sverhoeven/docker-cartodb with a few additions:
+* Uses CartoDB "Classic" interface rather than "Carto Builder" for user Dev
 
+---------------
 [![](https://images.microbadger.com/badges/image/sverhoeven/cartodb.svg)](https://microbadger.com/#/images/sverhoeven/cartodb "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/sverhoeven/cartodb.svg)](https://hub.docker.com/r/sverhoeven/cartodb/)
 
